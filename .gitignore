@@ -1,1 +1,5 @@
 transactions.csv
+.DS_Store
+Patrol.py
+Initial_data_checks_and_transformations.ipynb
+Model_building__Threshold_picking__Patrol_class_testing.ipynb
